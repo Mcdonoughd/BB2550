@@ -1,0 +1,4 @@
+Publishers (up to first 6) in last name, first name order. Year. Title. Journal. Month day;volume(issue):pages
+
+EX:
+Paddock MN, Bauman AT, Higdon R, Kolker E, Takedac S, Scharenberg AM. 2011. Competition between PARP-1 and Ku70 control the decision between high-fidelity and mutagenic DNA repair. DNA Repair. Mar 7;10(3):338-43
